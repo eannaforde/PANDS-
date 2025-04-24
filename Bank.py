@@ -8,9 +8,9 @@ def main ():
 #use input() function and wrap it with int() to convert the input string to an integer
 #reference: https://www.w3schools.com/python/ref_func_input.asp
 
-Amount1 = int(input("Enter amount one in cents"))
+Amount1 = int(input("Enter amount1 in cents"))
 #Ask user for the second amount in cents
-Amount2 = int(input("Enter amount two in cents"))
+Amount2 = int(input("Enter amount2 in cents"))
 
 #Add the two amounts together
 total_cents = amount1 + amount2
@@ -21,3 +21,9 @@ total_cents = amount1 + amount2
 
 euros = total_cents // 100
 cents = total_cents % 100
+
+#print the total in euro format with two decimal digits for cents
+#use f-strings and :02d to round cents
+# https://realpython.com/python-f-strings/#padding-and-aligning-strings
+
+print(f"the sum of these us €{euros}.{cents:02d}")
