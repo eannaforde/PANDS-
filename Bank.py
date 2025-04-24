@@ -24,6 +24,6 @@ cents = total_cents % 100
 
 #print the total in euro format with two decimal digits for cents
 #use f-strings and :02d to round cents
-# https://realpython.com/python-f-strings/#padding-and-aligning-strings
+#reference: https://realpython.com/python-f-strings/#padding-and-aligning-strings
 
 print(f"the sum of these us €{euros}.{cents:02d}")
