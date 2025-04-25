@@ -18,3 +18,15 @@ solutions to the weekly **Programming tasks as part of the Higher diploma in sci
 
 
 # This is the summary of the weekly tasks submission as part of this module
+
+## Task 1: bank.py - Adding two money amounts
+  This program is called 'bank.py'. It prompts the user and reads in two money amounts (in cent). It adds the two amounts. It prints out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount. e.g. €2.45
+## Task prompt
+$ python bank.py
+Enter amount1(in cent): 65
+Enter amount2(in cent): 180
+The sum of these is €2.45
+### Breakdown of task
+1. The user is asked to input two amounts (in cents)
+2. Add these values together.
+3. The total amount is converted into euros and cents
