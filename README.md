@@ -57,6 +57,9 @@ The program will end if the current value is one.
 * 10 5 16 8 4 2 1
 
 ## References
++ Youtube https://www.youtube.com/watch?v=lAp_5qTdOhM
++ Stackoverflow https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
++ How.dev https://how.dev/answers/how-to-generate-the-collatz-sequence-in-python
 
 ## Task 4: Weekday.py - Data
 This task is to write a program that outputs whether or not today is a weekday. If it is a weekday the program should output "Yes, unfortunately today is a weekday.". If it is a weekend day the program should output "It is the weekend, yay!".
