@@ -2,15 +2,14 @@
 #This program will prompt the user to read in two money amounts
 #Add the two amounts
 #Print the answer in a human readable format
-
-def main (): 
+ 
 #Ask user for the first amount in cents 
 #use input() function and wrap it with int() to convert the input string to an integer
 #reference: https://www.w3schools.com/python/ref_func_input.asp
 
-Amount1 = int(input("Enter amount1 in cents"))
+amount1 = int(input("Enter amount1 in cents"))
 #Ask user for the second amount in cents
-Amount2 = int(input("Enter amount2 in cents"))
+amount2 = int(input("Enter amount2 in cents"))
 
 #Add the two amounts together
 total_cents = amount1 + amount2
@@ -26,4 +25,4 @@ cents = total_cents % 100
 #use f-strings and :02d to round cents
 #reference: https://realpython.com/python-f-strings/#padding-and-aligning-strings
 
-print(f"the sum of these us €{euros}.{cents:02d}")
+print(f"the sum of these is €{euros}.{cents:02d}")
