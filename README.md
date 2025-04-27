@@ -43,6 +43,7 @@ XXXXXX7890
 [https://www.w3schools.com/python/ref_func_input.asp]
 [https://www.w3schools.com/python/python_strings_slicing.asp]
 [https://www.w3schools.com/python/gloss_python_string_concatenation.asp]
+[https://realpython.com/python-f-strings/]
 
 ## Task 3: Collatz.py - Controlling the flow
 This task asks the user to input any positive integer and outputs the successive values of the following calculation.
