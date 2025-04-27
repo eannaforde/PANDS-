@@ -65,5 +65,9 @@ $ python weekday.py
 It is the weekend, yay!
 There is no user input.
 
+## References
+[https://docs.python.org/3/library/datetime.html#datetime.datetime.weekday]
+[https://labex.io/tutorials/python-how-to-write-an-efficient-python-function-to-check-if-a-date-is-a-weekday-398285]
+
 
 
