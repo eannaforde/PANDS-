@@ -8,10 +8,10 @@ solutions to the weekly **Programming tasks as part of the Higher diploma in sci
 ---
 
 ### List of weekly Tasks
-1. ['Bank.py']
-2. ['Accounts.py']
-3. ['Collatz.py']
-4. ['weekday.py']
+1. ['Bank.py'](https://github.com/eannaforde/PANDS-/blob/main/Bank.py)
+2. ['Accounts.py'](https://github.com/eannaforde/PANDS-/blob/main/Accounts.py)
+3. ['Collatz.py'](https://github.com/eannaforde/PANDS-/blob/main/collatz.py)
+4. ['weekday.py'](https://github.com/eannaforde/PANDS-/blob/main/weekday.py)
 5. ['squareroot.py']
 6. ['moby-dick.py']
 7. ['plottask.py']
