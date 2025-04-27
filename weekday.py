@@ -12,7 +12,7 @@ today = datetime.today().weekday()
 
 #check if number is less than 5 (Monday to Friday)
 #use if else function to distinguish between weekday and weekend
-#Then se print function to return message as to what day it is
+#Then use print function to return message as to what day it is
 if today < 5:
     #if it is then it is a weekday
     print("yes, unfortunately today is a weekday.")
