@@ -26,6 +26,11 @@ $ python bank.py
 Enter amount1(in cent): 65
 Enter amount2(in cent): 180
 The sum of these is €2.45
+## References
+[https://www.w3schools.com/python/ref_func_input.asp]
+[https://www.w3schools.com/python/python_operators.asp]
+[https://realpython.com/python-f-strings/#padding-and-aligning-strings]
+
 
 ## Task 2: Accounts.py - Variables
 This task is to Write a python program called accounts.py that reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with Xs).
@@ -33,6 +38,11 @@ This task is to Write a python program called accounts.py that reads in a 10 cha
 $ python accounts.py
 Please enter an 10 digit account number: 1234567890
 XXXXXX7890
+
+## References
+[https://www.w3schools.com/python/ref_func_input.asp]
+[https://www.w3schools.com/python/python_strings_slicing.asp]
+[https://www.w3schools.com/python/gloss_python_string_concatenation.asp]
 
 ## Task 3: Collatz.py - Controlling the flow
 This task asks the user to input any positive integer and outputs the successive values of the following calculation.
